@@ -1,0 +1,5 @@
+DBSCAN_Cluster,Customer_Count,Customer_Percentage,Recency,Frequency,Spending,Product_Diversity
+0,2591,64.17,59.563,4.948,1734.198,78.956
+1,1432,35.46,160.615,1.0,333.166,21.293
+2,8,0.2,204.75,2.125,688.25,1.25
+3,7,0.17,3.0,1.0,229.833,16.286
